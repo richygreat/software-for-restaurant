@@ -1,5 +1,5 @@
 # software-for-restaurant
-Software for restaurant
+[Software for restaurant](https://www.vinr.ai/software-for-restaurant/)
 
 ## Software for Restaurant with AI Waiter!
 Take Your Restaurant Online in Just 5 Minutes! For only 30€/month and 0% commission on orders, enjoy delivery management, POS, payment integration, and more. Start serving customers online—no tech skills needed!
